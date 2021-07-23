@@ -3,7 +3,7 @@ package com.javatechie.jpa.repository;
 import com.javatechie.jpa.dto.OrderResponse;
 import com.javatechie.jpa.entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.jpa.repository.Query;fffffffffffff
 
 import java.util.List;
 
